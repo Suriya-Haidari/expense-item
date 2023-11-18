@@ -1,2 +1,2 @@
 # expense-item
-it is a add aexpense item project
+it is an add aexpense item project
