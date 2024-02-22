@@ -4,7 +4,7 @@ import NewExpense from "./Components/Expenses/NewExpense";
 const INITIAL_Expenses = [
   {
     id: "e1",
-    title: "HP Printer",
+    title: "HP Printerr",
     amount: 117.23,
     date: new Date(2021, 3, 11),
   },
